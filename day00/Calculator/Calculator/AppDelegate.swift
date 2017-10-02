@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  SuperSizeMe
+//  Calculator
 //
-//  Created by tony mack on 9/30/17.
-//  Copyright © 2017 tony mack. All rights reserved.
+//  Created by Tony MACK on 2017/10/02.
+//  Copyright © 2017 Tony MACK. All rights reserved.
 //
 
 import UIKit
